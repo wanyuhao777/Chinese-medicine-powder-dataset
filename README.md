@@ -66,10 +66,15 @@
 
 ## 五、数据集获取方式
 
-为便于学术研究与模型复现，现公开部分样例数据供参考。  
+为便于学术研究与模型复现，现公开部分样例数据供参考。
 完整数据将在论文录用后开源。
 
-🔗 **百度网盘下载链接：** [https://pan.baidu.com/s/xxxxxxxxxx](https://pan.baidu.com/s/xxxxxxxxxx)  
-🔑 **提取码：** `xxxx`
+🔗 下载链接
 
-> 数据仅供科研和教学用途，禁止商用。
+百度网盘： https://pan.baidu.com/s/1vEwUy6oh3mJescCdVbaEgA
+
+提取码： xzj1
+
+文件名： data_transfer.rar
+
+⚠️ 数据仅供科研和教学用途，禁止任何形式的商业使用。
